@@ -60,7 +60,9 @@ index="win-alert" EventCode=4698 AssessmentTaskOne
 ### 5. Parent Process Identification
 **Question:** What is the name of the parent process for the 
 process that created this malicious task?
+
 **Answer:** cmd.exe
+
 **Parent host:** WIN-H015 net.exe
 
 <img width="640" height="127" alt="image" src="https://github.com/user-attachments/assets/ca337fce-302c-40ea-9a04-5913426f4f09" />
