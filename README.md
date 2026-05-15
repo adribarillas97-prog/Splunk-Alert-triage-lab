@@ -84,7 +84,8 @@ index=win-alert host=WIN-H015 EventCode=4624 DEV-QA-SERVER
 ### 7. Hydra Brute Force Timeline
 **Question:** Which local group did the attacker enumerate during discovery? 
 
-**Answer:** 2025-09-14 21:20:27
+<img width="573" height="203" alt="image" src="https://github.com/user-attachments/assets/9049a054-bd40-45e5-bbbc-136647e030c9" />
+
 
 ---
 
