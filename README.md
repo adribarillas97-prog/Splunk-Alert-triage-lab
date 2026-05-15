@@ -71,12 +71,13 @@ process that created this malicious task?
 ---
 
 ### 6. Lateral Movement — Workstation Identification
-**Question:** What is the name of the workstation from which the 
-Threat Actor logged into this host?
+**Question:** What is the name of the parent process for the process that created this malicious task?
 **Answer:** DEV-QA-SERVER
 
 **Query used:**
 index=win-alert host=WIN-H015 EventCode=4624 DEV-QA-SERVER
+
+<img width="647" height="265" alt="image" src="https://github.com/user-attachments/assets/ce58d781-1dbe-458b-a7ae-dbf006c85040" />
 
 ---
 
