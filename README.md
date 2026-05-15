@@ -89,6 +89,12 @@ index=win-alert host=WIN-H015 EventCode=4624 DEV-QA-SERVER
 
 ---
 
+### 8. What is the name of the workstation from which the Threat Actor logged into this host? 
+We enter this quary : index=win-alert host=WIN-H015 EventCode=4624  DEV-QA-SERVER 
+Answer: DEV-QA-SERVER 
+
+
+
 ## Key Takeaways
 - Practiced full incident triage workflow in Splunk
 - Correlated Linux and Windows logs to trace attacker activity
