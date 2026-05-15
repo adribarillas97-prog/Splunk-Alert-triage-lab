@@ -38,6 +38,7 @@ index="linux-alert" Failed password "John.smith"
 ### 3. Persistence — Malicious Account Creation
 **Question:** What is the name of the user account created by the 
 attacker for persistence?
+
 **Answer:** system-utm
 
 <img width="1143" height="68" alt="image" src="https://github.com/user-attachments/assets/526ab18d-8a3b-456a-9de0-a677aa6abbd9" />
