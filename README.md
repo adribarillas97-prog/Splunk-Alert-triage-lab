@@ -30,7 +30,7 @@ index="linux-alert" Failed password "John.smith"
 - Started: 09:01:50 AM
 - Ended: 09:06:35 AM
 
-- <img width="1079" height="154" alt="image" src="https://github.com/user-attachments/assets/7ad0b5f8-74a9-4f35-9b17-0345c69d9c0f" />
+ <img width="1079" height="154" alt="image" src="https://github.com/user-attachments/assets/7ad0b5f8-74a9-4f35-9b17-0345c69d9c0f" />
 
 
 ---
