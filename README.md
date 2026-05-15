@@ -93,6 +93,9 @@ index=win-alert host=WIN-H015 EventCode=4624 DEV-QA-SERVER
 We enter this quary : index=win-alert host=WIN-H015 EventCode=4624  DEV-QA-SERVER 
 Answer: DEV-QA-SERVER 
 
+<img width="1019" height="532" alt="image" src="https://github.com/user-attachments/assets/c20d5e0b-f6b9-45ae-a769-91531b21b51d" />
+
+
 
 
 ## Key Takeaways
