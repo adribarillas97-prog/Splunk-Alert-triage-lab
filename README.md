@@ -19,8 +19,9 @@ persistence, lateral movement, and malicious process execution.
 **Query used:**
 index="linux-alert" Failed password "John.smith"
 | stats count as Failed_Attempts
- (<img width="1195" height="523" alt="image" src="https://github.com/user-attachments/assets/cc57002e-aa20-43cd-b40a-eb2a17bb337a" />
-)
+
+<img width="697" height="416" alt="image" src="https://github.com/user-attachments/assets/8dd00ef6-cb00-491a-8510-d07e8ea98195" />
+
 ---
 
 ### 2. Attack Duration
