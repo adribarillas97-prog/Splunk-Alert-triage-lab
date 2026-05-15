@@ -82,8 +82,8 @@ index=win-alert host=WIN-H015 EventCode=4624 DEV-QA-SERVER
 ---
 
 ### 7. Hydra Brute Force Timeline
-**Question:** What time did the brute force activity using 
-Hydra begin?
+**Question:** Which local group did the attacker enumerate during discovery? 
+
 **Answer:** 2025-09-14 21:20:27
 
 ---
