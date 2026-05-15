@@ -19,7 +19,7 @@ persistence, lateral movement, and malicious process execution.
 **Query used:**
 index="linux-alert" Failed password "John.smith"
 | stats count as Failed_Attempts
-![image alt] (https://github.com/adribarillas97-prog/Splunk-Alert-triage-lab/blob/main/GetImage.png?raw=true)
+![image alt] (https://github.com/adribarillas97-prog/Splunk-Alert-triage-lab/blob/8604b4f4026f286b2f651106eb1d49631457ab5c/getImage.png)
 ---
 
 ### 2. Attack Duration
