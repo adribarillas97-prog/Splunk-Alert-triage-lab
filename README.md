@@ -1,4 +1,4 @@
-Hands-on Splunk investigation completed on TryHackMe.
+## Hands-on Splunk investigation completed on TryHackMe.
 Analyzed a real attack scenario involving brute force,
 persistence, lateral movement, and malicious process execution.
 
